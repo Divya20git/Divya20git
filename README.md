@@ -16,10 +16,11 @@
 ## 📌 Projects
 - **[Automated Pharmaceutical Dispenser – e-Yantra](#)** — Raspberry Pi, image processing, Python control.  
 - **[Skin Cancer Detection using SVM]** — MATLAB-based SVM classification with ~90% accuracy.  
-- **[Silicon Wafer Fault Detection (Publication)](https://ijisae.org/index.php/IJISAE/article/view/5897)[IMPLEMENTATION](https://github.com/Divya20git/Wafer-Fault-Detection-Using-AI-models)** — ML & deep learning for wafer defect detection.
+- **[Silicon Wafer Fault Detection](https://github.com/Divya20git/Wafer-Fault-Detection-Using-AI-models)** — ML & deep learning for wafer defect detection. *[Publication](https://ijisae.org/index.php/IJISAE/article/view/5897)*
+
 
 ---
 
 ## 🌱 Interests
-- ML & DL 
+- Machine Learning & Deep Learning
 - Embedded AI systems  
