@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Divya Shree K V
 
-<!--
-**Divya20git/Divya20git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BE in Electronics & Communication Engineering** | BMS College of Engineering (GPA: 8.9/10)  
+💡 Passionate about **Embedded Systems**, **Semiconductors**, and **Machine Learning**  
+🚀 Experience in aerospace systems, satellite data processing, and robotics automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Programming:** Python, C, C++, MATLAB, VHDL  
+- **Domains:** Machine Learning, Embedded Systems, Image Processing, Cloud Computing  
+- **Tools:** Vivado, CoppeliaSim, Praat, Audacity  
+
+---
+
+## 📌 Projects
+- **[Automated Pharmaceutical Dispenser – e-Yantra](#)** — Raspberry Pi, image processing, Python control.  
+- **[Skin Cancer Detection using SVM]** — MATLAB-based SVM classification with ~90% accuracy.  
+- **[Silicon Wafer Fault Detection (Publication)](https://ijisae.org/index.php/IJISAE/article/view/5897)** — ML & deep learning for wafer defect detection.
+
+---
+
+## 🌱 Interests
+- ML & DL 
+- Embedded AI systems  
