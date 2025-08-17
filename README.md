@@ -14,7 +14,6 @@
 ---
 
 ## 📌 Projects
-- **[Automated Pharmaceutical Dispenser – e-Yantra](https://github.com/Divyashree2002/eyrc22_PB_1144)** — Raspberry Pi, image processing, Python control.  
 - **[Silicon Wafer Fault Detection](https://github.com/Divya20git/Wafer-Fault-Detection-Using-AI-models)** — ML & deep learning for wafer defect detection. *[Publication](https://ijisae.org/index.php/IJISAE/article/view/5897)*
 
 
